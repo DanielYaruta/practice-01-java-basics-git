@@ -1,5 +1,10 @@
 # Java Basics — Конвертеры
 
+![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)
+![Maven](https://img.shields.io/badge/Maven-3.9-blue?logo=apachemaven)
+![Last commit](https://img.shields.io/github/last-commit/DanielYaruta/practice-01-java-basics-git)
+![Repo size](https://img.shields.io/github/repo-size/DanielYaruta/practice-01-java-basics-git)
+
 Консольное приложение на Java с интерактивным меню для выполнения простых вычислений.
 
 ## Задачи
